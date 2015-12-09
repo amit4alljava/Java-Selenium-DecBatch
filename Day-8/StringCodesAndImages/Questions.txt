@@ -1,0 +1,20 @@
+Q1. WAP (Write a Program) to Enter the String from User
+and then reverse the String
+
+Q2. WAP to Enter the String and Check the String is Palindrome or Not
+mom : mom
+nitin: nitin
+amit: tima (Not Palindrome String)
+
+Q3. WAP to Enter the String
+Sample : thIs iS tEsT
+Output : This Is Test
+
+Q4. WAP to Enter the String
+Sample : Space
+Output : Space
+              paceS
+              aceSp
+              ceSpa
+              eSpac
+              Space			 
