@@ -1,0 +1,18 @@
+glob:The email*
+
+regexp: [Aa]mit[0-9]+
+regexpi: [a]mit[0-9]+
+regexp: [A-Za-z]+[0-9]+
+amit89898
+AMIT647374
+regexp: [Aa]mit[0-9]
+
+
+amit1
+amit2
+
+amit123
+amit565
+
+FireBug, FirePath
+

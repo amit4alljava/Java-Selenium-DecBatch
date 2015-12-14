@@ -1,0 +1,12 @@
+HTML
+
+TextBox, RadioButton , TextArea, CheckBox, Button
+
+id , name , class
+
+1. id - Unique Always
+2. name - 1. It is used to Group the Elements 
+2. It is also used to send the data on server
+
+
+3. class - css designer

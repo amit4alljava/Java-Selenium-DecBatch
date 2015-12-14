@@ -1,0 +1,10 @@
+Selenium IDE
+a) No Coding
+b) Primary
+c) Record and Play
+
+
+Limitation
+a) FireFox
+b) No Decision Making and No Looping
+
