@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11758" started-at="2015-12-21T06:41:08Z" finished-at="2015-12-21T06:41:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11758" started-at="2015-12-21T06:41:08Z" finished-at="2015-12-21T06:41:20Z">
+      <class name="com.ust.keyworddriven.utility.CommandExecutor">
+        <test-method status="PASS" signature="testExecute()[pri:0, instance:com.ust.keyworddriven.utility.CommandExecutor@1b40d5f0]" name="testExecute" duration-ms="11727" started-at="2015-12-21T12:11:08Z" finished-at="2015-12-21T12:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExecute -->
+      </class> <!-- com.ust.keyworddriven.utility.CommandExecutor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+1. Keyword Driven Framework
+2. Reflection  - It is a Java Feature and it will decide which method is called or
+which class will load and which class object is created , all are on runtime.
+
+Coding on Runtime
