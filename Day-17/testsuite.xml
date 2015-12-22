@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite" verbose="1" parallel="true" thread-count="2" >
+    
+  <test name="MyTest" >
+    <!--   <groups>
+      <run>
+        <include name="Regression"/>
+      </run>
+    </groups> -->
+    <classes>
+      <class name="suitedemo.Demo1"/>
+      <class name="suitedemo.Demo2"/>
+      
+      
+    </classes>
+ </test>
+</suite>
